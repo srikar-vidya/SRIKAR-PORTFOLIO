@@ -732,19 +732,42 @@ function Projects() {
     )
 }
 
+// function Resume() {
+//     return (
+//         <div className="h-full w-full flex flex-col">
+//             <iframe 
+//                 className="h-full w-full" 
+//                 src="https://drive.google.com/file/d/1aCjg9hU3w8U3ktgXxmz69hHGHNsCUrdV/preview" 
+//                 title="Srikar Vidya Resume" 
+//                 frameBorder="0"
+//                 allow="autoplay"
+//             ></iframe>
+//             <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2">
+//                 <a 
+//                     href="https://drive.google.com/uc?export=download&id=1aCjg9hU3w8U3ktgXxmz69hHGHNsCUrdV" 
+//                     className="bg-ub-orange text-white px-4 py-2 rounded hover:bg-opacity-90 shadow-lg"
+//                     target="_blank"
+//                     rel="noopener noreferrer"
+//                 >
+//                     Download Resume
+//                 </a>
+//             </div>
+//         </div>
+//     )
+// }
 function Resume() {
     return (
         <div className="h-full w-full flex flex-col">
             <iframe 
-                className="h-full w-full" 
-                src="https://drive.google.com/file/d/1aCjg9hU3w8U3ktgXxmz69hHGHNsCUrdV/preview" 
-                title="Srikar Vidya Resume" 
+                className="h-full w-full"
+                src="https://drive.google.com/file/d/1RNNhbLDzr-6clu0TQuB10DjFgd4o6o81/preview"
+                title="Srikar Vidya Resume"
                 frameBorder="0"
                 allow="autoplay"
             ></iframe>
             <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2">
                 <a 
-                    href="https://drive.google.com/uc?export=download&id=1aCjg9hU3w8U3ktgXxmz69hHGHNsCUrdV" 
+                    href="https://drive.google.com/uc?export=download&id=1RNNhbLDzr-6clu0TQuB10DjFgd4o6o81"
                     className="bg-ub-orange text-white px-4 py-2 rounded hover:bg-opacity-90 shadow-lg"
                     target="_blank"
                     rel="noopener noreferrer"
